@@ -1,3 +1,5 @@
+
+// Taking user input in java
 import java.util.Scanner;
 
 public class main {
